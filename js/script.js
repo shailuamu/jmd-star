@@ -29,7 +29,7 @@ $(document).ready(function($) {
 /*=================================
 ||			Radial Progressive Bar
 ==================================*/
-	$('.demo-4').percentcircle({
+/*	$('.demo-4').percentcircle({
 	animate : true,
 	diameter : 100,
 	guage: 3,
@@ -38,7 +38,7 @@ $(document).ready(function($) {
 	fillColor: '#e64e4e',
 	percentSize: '18px',
 	percentWeight: 'normal'
-	});
+	});*/
 
 
 /*=================================

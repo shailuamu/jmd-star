@@ -490,7 +490,8 @@ section h3.section-subheading {
 ==================================*/
 .works
 {
-	background: #221e2d;
+	/*background: #221e2d;*/
+	background : linear-gradient(to right, #ce4762, #3a2434);
 }
 .works-item
 {
@@ -553,8 +554,8 @@ button.filters-button
 {
 	text-transform: capitalize;
 	background: transparent;
-	color: #907fbf;
-	border: 1px solid #221e2d;
+	color: #fff;
+	border: 1px solid #fff;
 	outline: none;
 	margin: 25px 0px 50px;
 	padding: 5px 20px;
@@ -563,8 +564,8 @@ button.filters-button
 }
 button.active, button.filters-button:hover, button.filters-button:active, button.filters-button:focus
 {
-	color: #e64e4e;
-	border: 1px solid #e64e4e;
+	color: #FB7404;
+	border: 1px solid #FB7404;
 }
 .works .wrapper
 {
